@@ -170,9 +170,9 @@
         "SAP",
         "Azure"
       ],
-      "description": "End-to-end executive dashboard tracking operational KPIs across YAZAKI's manufacturing lines. Gathered requirements, designed the star-schema data model, and built a multi-page report consumed by senior leadership weekly.",
+      "description": "Developed a Power BI dashboard to analyze and optimize warehouse space, providing key metrics and insights for efficient inventory management.",
       "images": [
-        "sample_dashboard.png"
+        "Warehouse Space Calculation Dashboard.png"
       ],
       "embed": "",
       "link": "",
