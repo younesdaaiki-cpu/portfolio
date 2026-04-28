@@ -1,268 +1,138 @@
-{
-  "meta": {
-    "last_updated": "2025-04-27",
-    "version": "1.0"
-  },
-  "profile": {
-    "name": "Younes Daaiki",
-    "title": "Advanced Analytics & Digitalization Specialist",
-    "tagline": "Transforming raw enterprise data into strategic decisions",
-    "location": "Casablanca, Morocco",
-    "phone": "+212 654 753 718",
-    "email": "younes.daaiki@gmail.com",
-    "photo": "assets/photo.jpg",
-    "about": "Business Intelligence & Advanced Analytics Specialist with 4+ years delivering end-to-end data solutions in enterprise environments. Experienced in SAP, Azure, Python, SQL, and Power BI, transforming multi-source data into executive dashboards and automation tools. Strong background in data governance, Power Platform, and analytics enablement, with proven ability to bridge business and technical teams.",
-    "linkedin": "",
-    "github": "",
-    "website": ""
-  },
-  "skills": [
-    {
-      "category": "Analytics Stack",
-      "items": [
-        "Python",
-        "SQL",
-        "Power BI",
-        "DAX",
-        "Power Query"
-      ]
-    },
-    {
-      "category": "Power Platform",
-      "items": [
-        "Power Apps",
-        "Power Automate",
-        "Azure Data Services"
-      ]
-    },
-    {
-      "category": "Enterprise / ERP",
-      "items": [
-        "SAP MDG",
-        "SAP BW",
-        "SAP SD/MM",
-        "EDI / IDoc"
-      ]
-    }
-  ],
-  "experience": [
-    {
-      "id": "exp1",
-      "role": "Power BI & Digitalization Specialist",
-      "company": "YAZAKI",
-      "location": "Tangier, Morocco",
-      "start": "Dec 2024",
-      "end": "Present",
-      "bullets": [
-        "Owned end-to-end analytics modules: gathered requirements, designed data models, built and delivered Power BI dashboards tracking executive KPIs.",
-        "Engineered data-quality detection tools by querying SAP tables via Azure — identifying cross-system discrepancies at scale and enabling proactive master data governance.",
-        "Developed Python-powered automation integrating REST APIs (VIES, D&B, IBAN.com), eliminating manual vendor validation and reducing processing time significantly.",
-        "Built Power Apps MVPs for top management — approval workflows and digital form solutions — shortening turnaround cycles.",
-        "Deployed Power Automate flows automating daily reporting, file distribution, and operational notifications.",
-        "Synthesized analytical insights into structured presentations for senior leadership, translating technical findings into business recommendations.",
-        "Acted as analytics enablement lead: provided cross-departmental training on Power Platform, SQL, and data best practices."
-      ]
-    },
-    {
-      "id": "exp2",
-      "role": "SAP MDG Data Steward",
-      "company": "YAZAKI",
-      "location": "Tangier, Morocco",
-      "start": "Mar 2024",
-      "end": "Nov 2024",
-      "bullets": [
-        "Contributed to full MDG implementation lifecycle — requirements definition, data model design, integration testing, and go-live support.",
-        "Owned vendor and customer master data governance: created, updated, and maintained records while detecting and resolving discrepancies.",
-        "Applied statistical and rule-based validation logic (IBAN, tax number checks) to enforce supplier risk controls before activation.",
-        "Built Power BI reports to monitor master data health KPIs and surface data quality insights to governance stakeholders.",
-        "Led data cleansing and standardization workstreams in collaboration with cross-functional teams.",
-        "Automated repetitive MDG administration tasks via Power Automate, freeing analyst capacity for higher-value work.",
-        "Delivered structured onboarding and training programs for new MDG users."
-      ]
-    },
-    {
-      "id": "exp3",
-      "role": "SAP & DCIX Key User",
-      "company": "APTIV",
-      "location": "Oujda, Morocco",
-      "start": "Oct 2022",
-      "end": "Mar 2024",
-      "bullets": [
-        "Managed master data, vendor records, and purchasing data across SAP MM/SD modules, ensuring accuracy and consistency.",
-        "Automated logistics reporting pipelines using BI tooling, reducing manual data extraction effort.",
-        "Administered EDI processes and IDoc management, optimizing SD module configuration.",
-        "Led DCIX system integration and master data setup from scratch during new factory startup.",
-        "Delivered training and troubleshooting support for DCIX and SAP across end-user populations."
-      ]
-    },
-    {
-      "id": "exp4",
-      "role": "Warehouse Leader",
-      "company": "AKWEL",
-      "location": "El-Jadida, Morocco",
-      "start": "Jul 2021",
-      "end": "Sep 2022",
-      "bullets": [
-        "Managed inbound supply operations, stock volume calculation, and finished-product planning.",
-        "Led a mixed warehouse team: operators, data-entry staff, and billing agents."
-      ]
-    }
-  ],
-  "education": [
-    {
-      "degree": "Master's in Industrial Management & Engineering",
-      "institution": "",
-      "start": "2023",
-      "end": "2025"
-    },
-    {
-      "degree": "Logistics Management License",
-      "institution": "",
-      "start": "2020",
-      "end": "2021"
-    },
-    {
-      "degree": "Baccalaureate of Science — Highest Honors",
-      "institution": "",
-      "start": "2016",
-      "end": "2017"
-    }
-  ],
-  "certifications": [
-    {
-      "name": "Advanced Excel Skills",
-      "issuer": "",
-      "year": ""
-    },
-    {
-      "name": "Interactive Dashboards with Microsoft Power BI",
-      "issuer": "",
-      "year": ""
-    },
-    {
-      "name": "Space Optimization",
-      "issuer": "",
-      "year": ""
-    }
-  ],
-  "languages": [
-    {
-      "language": "Arabic",
-      "level": "Native"
-    },
-    {
-      "language": "French",
-      "level": "Professional"
-    },
-    {
-      "language": "English",
-      "level": "Professional"
-    }
-  ],
-  "projects": [
-    {
-      "id": "proj1",
-      "title": "Executive KPI Dashboard — YAZAKI",
-      "category": "Power BI",
-      "tags": [
-        "Power BI",
-        "DAX",
-        "SAP",
-        "Azure"
-      ],
-      "description": "End-to-end executive dashboard tracking operational KPIs across YAZAKI's manufacturing lines. Gathered requirements, designed the star-schema data model, and built a multi-page report consumed by senior leadership weekly.",
-      "images": [
-        "sample_dashboard.png"
-      ],
-      "embed": "",
-      "link": "",
-      "year": "2025",
-      "featured": true
-    },
-    {
-      "id": "proj2",
-      "title": "Vendor Validation Automation — REST API Integration",
-      "category": "Python",
-      "tags": [
-        "Python",
-        "REST API",
-        "VIES",
-        "D&B",
-        "IBAN"
-      ],
-      "description": "Python-powered automation connecting VIES (EU VAT validation), Dun & Bradstreet, and IBAN.com APIs to automatically validate new vendors before SAP activation. Eliminated manual checks and reduced processing time by over 70%.",
-      "images": [],
-      "embed": "",
-      "link": "",
-      "year": "2025",
-      "featured": true
-    },
-    {
-      "id": "proj3",
-      "title": "SAP MDG Data Quality Tool",
-      "category": "Analytics",
-      "tags": [
-        "Python",
-        "SAP",
-        "Azure",
-        "SQL",
-        "Data Quality"
-      ],
-      "description": "Cross-system discrepancy detection engine querying SAP tables via Azure. Surfaced mismatches in master data records at scale, enabling proactive governance before issues propagated downstream.",
-      "images": [],
-      "embed": "",
-      "link": "",
-      "year": "2024",
-      "featured": true
-    },
-    {
-      "id": "proj4",
-      "title": "Power Apps Approval Workflow",
-      "category": "Power Platform",
-      "tags": [
-        "Power Apps",
-        "Power Automate",
-        "SharePoint"
-      ],
-      "description": "Canvas app MVP built for top management to digitize approval workflows and replace paper-based forms. Integrated with Power Automate for automated notifications and Power BI for audit tracking.",
-      "images": [],
-      "embed": "",
-      "link": "",
-      "year": "2024",
-      "featured": false
-    },
-    {
-      "id": "proj5",
-      "title": "MDG Master Data Health Reports",
-      "category": "Power BI",
-      "tags": [
-        "Power BI",
-        "SAP MDG",
-        "Data Governance"
-      ],
-      "description": "Power BI suite monitoring vendor and customer master data KPIs — completeness, duplication rate, IBAN validity, tax number accuracy — surfaced to data governance stakeholders in real time.",
-      "images": [],
-      "embed": "",
-      "link": "",
-      "year": "2024",
-      "featured": false
-    },
-    {
-      "id": "proj6",
-      "title": "DCIX Factory Startup Integration — APTIV",
-      "category": "ERP",
-      "tags": [
-        "SAP MM/SD",
-        "DCIX",
-        "EDI",
-        "IDoc"
-      ],
-      "description": "Led DCIX system integration and master data setup from zero for a new APTIV factory. Configured EDI/IDoc processes and delivered training to 30+ end users across logistics and procurement teams.",
-      "images": [],
-      "embed": "",
-      "link": "",
-      "year": "2023",
-      "featured": false
-    }
-  ]
-}
+# Younes Daaiki — Portfolio System
+
+A fully data-driven personal portfolio. Edit your info in Excel → run one command → website updates instantly.
+
+---
+
+## 📁 Folder Structure
+
+```
+portfolio/
+├── index.html              ← The website (open this in browser)
+├── data_manager.py         ← Sync tool: Excel ↔ JSON
+├── serve.py                ← Local dev server (run this to preview)
+├── data/
+│   ├── portfolio.json      ← Live database used by the website
+│   └── portfolio_editor.xlsx ← Human-friendly editor (edit this!)
+├── assets/                 ← Put your project images here
+│   └── photo.jpg           ← Your profile photo (replace this)
+└── README.md
+```
+
+---
+
+## 🚀 Quick Start
+
+### 1. Add your profile photo
+Drop your photo as `assets/photo.jpg`
+
+### 2. Preview the site
+```bash
+python serve.py
+```
+Then open http://localhost:8080 in your browser.
+
+### 3. Edit your data
+Open `data/portfolio_editor.xlsx` in Excel (or LibreOffice).
+Edit any sheet: Profile, Skills, Experience, Education, Certifications, Languages, Projects.
+
+### 4. Sync changes to the website
+```bash
+python data_manager.py excel_to_json
+```
+Refresh your browser — changes appear instantly.
+
+---
+
+## 📊 Adding Projects
+
+1. Open `data/portfolio_editor.xlsx`
+2. Go to the **Projects** sheet
+3. Add a new row at the bottom:
+   - **id**: leave blank (auto-generated)
+   - **title**: project name
+   - **category**: e.g. `Power BI`, `Python`, `Analytics`, `Power Platform`, `ERP`
+   - **tags**: comma-separated, e.g. `Power BI, DAX, SAP`
+   - **description**: 2–3 sentences about the project
+   - **images**: filenames from the `assets/` folder, e.g. `dashboard.png, chart.jpg`
+   - **embed**: Power BI embed URL, YouTube embed, or any iframe src
+   - **link**: external link to the project (optional)
+   - **year**: e.g. `2025`
+   - **featured**: `TRUE` or `FALSE`
+
+4. Put your image files in the `assets/` folder
+5. Run: `python data_manager.py excel_to_json`
+
+---
+
+## 🖼️ Adding Project Images
+
+- Copy your image files into the `assets/` folder
+- In the Excel Projects sheet, in the **images** column, write the filenames separated by commas
+- Example: `dashboard_screenshot.png, architecture.png`
+- Supported formats: `.jpg`, `.jpeg`, `.png`, `.gif`, `.webp`
+
+---
+
+## 🔗 Embedding Power BI / YouTube
+
+In the **embed** column of the Projects sheet, paste:
+
+**Power BI:**
+```
+https://app.powerbi.com/reportEmbed?reportId=YOUR_REPORT_ID&...
+```
+
+**YouTube:**
+```
+https://www.youtube.com/embed/VIDEO_ID
+```
+
+**Any iframe src** works — Google Data Studio, Tableau Public, etc.
+
+---
+
+## 🔄 Workflow Summary
+
+```
+Edit Excel  →  python data_manager.py excel_to_json  →  Refresh browser
+```
+
+Or the reverse (if you edited JSON directly):
+```
+python data_manager.py json_to_excel
+```
+
+---
+
+## 🌐 Deploying Online
+
+To host your portfolio online for free:
+
+### GitHub Pages
+1. Create a GitHub repo
+2. Upload all files
+3. Go to Settings → Pages → Deploy from branch `main`
+4. Your site will be live at `https://yourusername.github.io/portfolio`
+
+### Netlify (drag & drop)
+1. Go to https://netlify.com
+2. Drag the entire `portfolio/` folder onto the Netlify dashboard
+3. Done — live in 30 seconds
+
+---
+
+## ⚙️ Requirements
+
+- Python 3.7+
+- `openpyxl` library: `pip install openpyxl`
+
+---
+
+## 📝 Tips
+
+- The website reads `portfolio.json` directly — it's fast and works offline
+- Always run `excel_to_json` after editing the Excel file
+- Always run `json_to_excel` if you want to re-open the Excel after editing JSON directly
+- Project images are loaded lazily — large images are fine
+- The site is fully responsive (works on mobile)
