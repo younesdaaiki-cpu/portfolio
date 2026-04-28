@@ -1,0 +1,268 @@
+{
+  "meta": {
+    "last_updated": "2025-04-27",
+    "version": "1.0"
+  },
+  "profile": {
+    "name": "Younes Daaiki",
+    "title": "Advanced Analytics & Digitalization Specialist",
+    "tagline": "Transforming raw enterprise data into strategic decisions",
+    "location": "Casablanca, Morocco",
+    "phone": "+212 654 753 718",
+    "email": "younes.daaiki@gmail.com",
+    "photo": "assets/photo.jpg",
+    "about": "Business Intelligence & Advanced Analytics Specialist with 4+ years delivering end-to-end data solutions in enterprise environments. Experienced in SAP, Azure, Python, SQL, and Power BI, transforming multi-source data into executive dashboards and automation tools. Strong background in data governance, Power Platform, and analytics enablement, with proven ability to bridge business and technical teams.",
+    "linkedin": "",
+    "github": "",
+    "website": ""
+  },
+  "skills": [
+    {
+      "category": "Analytics Stack",
+      "items": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "DAX",
+        "Power Query"
+      ]
+    },
+    {
+      "category": "Power Platform",
+      "items": [
+        "Power Apps",
+        "Power Automate",
+        "Azure Data Services"
+      ]
+    },
+    {
+      "category": "Enterprise / ERP",
+      "items": [
+        "SAP MDG",
+        "SAP BW",
+        "SAP SD/MM",
+        "EDI / IDoc"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp1",
+      "role": "Power BI & Digitalization Specialist",
+      "company": "YAZAKI",
+      "location": "Tangier, Morocco",
+      "start": "Dec 2024",
+      "end": "Present",
+      "bullets": [
+        "Owned end-to-end analytics modules: gathered requirements, designed data models, built and delivered Power BI dashboards tracking executive KPIs.",
+        "Engineered data-quality detection tools by querying SAP tables via Azure — identifying cross-system discrepancies at scale and enabling proactive master data governance.",
+        "Developed Python-powered automation integrating REST APIs (VIES, D&B, IBAN.com), eliminating manual vendor validation and reducing processing time significantly.",
+        "Built Power Apps MVPs for top management — approval workflows and digital form solutions — shortening turnaround cycles.",
+        "Deployed Power Automate flows automating daily reporting, file distribution, and operational notifications.",
+        "Synthesized analytical insights into structured presentations for senior leadership, translating technical findings into business recommendations.",
+        "Acted as analytics enablement lead: provided cross-departmental training on Power Platform, SQL, and data best practices."
+      ]
+    },
+    {
+      "id": "exp2",
+      "role": "SAP MDG Data Steward",
+      "company": "YAZAKI",
+      "location": "Tangier, Morocco",
+      "start": "Mar 2024",
+      "end": "Nov 2024",
+      "bullets": [
+        "Contributed to full MDG implementation lifecycle — requirements definition, data model design, integration testing, and go-live support.",
+        "Owned vendor and customer master data governance: created, updated, and maintained records while detecting and resolving discrepancies.",
+        "Applied statistical and rule-based validation logic (IBAN, tax number checks) to enforce supplier risk controls before activation.",
+        "Built Power BI reports to monitor master data health KPIs and surface data quality insights to governance stakeholders.",
+        "Led data cleansing and standardization workstreams in collaboration with cross-functional teams.",
+        "Automated repetitive MDG administration tasks via Power Automate, freeing analyst capacity for higher-value work.",
+        "Delivered structured onboarding and training programs for new MDG users."
+      ]
+    },
+    {
+      "id": "exp3",
+      "role": "SAP & DCIX Key User",
+      "company": "APTIV",
+      "location": "Oujda, Morocco",
+      "start": "Oct 2022",
+      "end": "Mar 2024",
+      "bullets": [
+        "Managed master data, vendor records, and purchasing data across SAP MM/SD modules, ensuring accuracy and consistency.",
+        "Automated logistics reporting pipelines using BI tooling, reducing manual data extraction effort.",
+        "Administered EDI processes and IDoc management, optimizing SD module configuration.",
+        "Led DCIX system integration and master data setup from scratch during new factory startup.",
+        "Delivered training and troubleshooting support for DCIX and SAP across end-user populations."
+      ]
+    },
+    {
+      "id": "exp4",
+      "role": "Warehouse Leader",
+      "company": "AKWEL",
+      "location": "El-Jadida, Morocco",
+      "start": "Jul 2021",
+      "end": "Sep 2022",
+      "bullets": [
+        "Managed inbound supply operations, stock volume calculation, and finished-product planning.",
+        "Led a mixed warehouse team: operators, data-entry staff, and billing agents."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master's in Industrial Management & Engineering",
+      "institution": "",
+      "start": "2023",
+      "end": "2025"
+    },
+    {
+      "degree": "Logistics Management License",
+      "institution": "",
+      "start": "2020",
+      "end": "2021"
+    },
+    {
+      "degree": "Baccalaureate of Science — Highest Honors",
+      "institution": "",
+      "start": "2016",
+      "end": "2017"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Advanced Excel Skills",
+      "issuer": "",
+      "year": ""
+    },
+    {
+      "name": "Interactive Dashboards with Microsoft Power BI",
+      "issuer": "",
+      "year": ""
+    },
+    {
+      "name": "Space Optimization",
+      "issuer": "",
+      "year": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "level": "Native"
+    },
+    {
+      "language": "French",
+      "level": "Professional"
+    },
+    {
+      "language": "English",
+      "level": "Professional"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj1",
+      "title": "Executive KPI Dashboard — YAZAKI",
+      "category": "Power BI",
+      "tags": [
+        "Power BI",
+        "DAX",
+        "SAP",
+        "Azure"
+      ],
+      "description": "End-to-end executive dashboard tracking operational KPIs across YAZAKI's manufacturing lines. Gathered requirements, designed the star-schema data model, and built a multi-page report consumed by senior leadership weekly.",
+      "images": [
+        "sample_dashboard.png"
+      ],
+      "embed": "",
+      "link": "",
+      "year": "2025",
+      "featured": true
+    },
+    {
+      "id": "proj2",
+      "title": "Vendor Validation Automation — REST API Integration",
+      "category": "Python",
+      "tags": [
+        "Python",
+        "REST API",
+        "VIES",
+        "D&B",
+        "IBAN"
+      ],
+      "description": "Python-powered automation connecting VIES (EU VAT validation), Dun & Bradstreet, and IBAN.com APIs to automatically validate new vendors before SAP activation. Eliminated manual checks and reduced processing time by over 70%.",
+      "images": [],
+      "embed": "",
+      "link": "",
+      "year": "2025",
+      "featured": true
+    },
+    {
+      "id": "proj3",
+      "title": "SAP MDG Data Quality Tool",
+      "category": "Analytics",
+      "tags": [
+        "Python",
+        "SAP",
+        "Azure",
+        "SQL",
+        "Data Quality"
+      ],
+      "description": "Cross-system discrepancy detection engine querying SAP tables via Azure. Surfaced mismatches in master data records at scale, enabling proactive governance before issues propagated downstream.",
+      "images": [],
+      "embed": "",
+      "link": "",
+      "year": "2024",
+      "featured": true
+    },
+    {
+      "id": "proj4",
+      "title": "Power Apps Approval Workflow",
+      "category": "Power Platform",
+      "tags": [
+        "Power Apps",
+        "Power Automate",
+        "SharePoint"
+      ],
+      "description": "Canvas app MVP built for top management to digitize approval workflows and replace paper-based forms. Integrated with Power Automate for automated notifications and Power BI for audit tracking.",
+      "images": [],
+      "embed": "",
+      "link": "",
+      "year": "2024",
+      "featured": false
+    },
+    {
+      "id": "proj5",
+      "title": "MDG Master Data Health Reports",
+      "category": "Power BI",
+      "tags": [
+        "Power BI",
+        "SAP MDG",
+        "Data Governance"
+      ],
+      "description": "Power BI suite monitoring vendor and customer master data KPIs — completeness, duplication rate, IBAN validity, tax number accuracy — surfaced to data governance stakeholders in real time.",
+      "images": [],
+      "embed": "",
+      "link": "",
+      "year": "2024",
+      "featured": false
+    },
+    {
+      "id": "proj6",
+      "title": "DCIX Factory Startup Integration — APTIV",
+      "category": "ERP",
+      "tags": [
+        "SAP MM/SD",
+        "DCIX",
+        "EDI",
+        "IDoc"
+      ],
+      "description": "Led DCIX system integration and master data setup from zero for a new APTIV factory. Configured EDI/IDoc processes and delivered training to 30+ end users across logistics and procurement teams.",
+      "images": [],
+      "embed": "",
+      "link": "",
+      "year": "2023",
+      "featured": false
+    }
+  ]
+}
