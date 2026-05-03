@@ -1,8 +1,4 @@
 {
-  "meta": {
-    "last_updated": "2025-04-27",
-    "version": "1.0"
-  },
   "profile": {
     "name": "Younes Daaiki",
     "title": "Advanced Analytics & Digitalization Specialist",
@@ -12,9 +8,9 @@
     "email": "younes.daaiki@gmail.com",
     "photo": "assets/photo.jpg",
     "about": "Business Intelligence & Advanced Analytics Specialist with 4+ years delivering end-to-end data solutions in enterprise environments. Experienced in SAP, Azure, Python, SQL, and Power BI, transforming multi-source data into executive dashboards and automation tools. Strong background in data governance, Power Platform, and analytics enablement, with proven ability to bridge business and technical teams.",
-    "linkedin": "",
+    "linkedin": "www.linkedin.com/in/younes-daaiki",
     "github": "",
-    "website": ""
+    "website": "https://younesdaaiki-cpu.github.io/portfolio/"
   },
   "skills": [
     {
@@ -162,7 +158,7 @@
   "projects": [
     {
       "id": "proj1",
-      "title": "Executive KPI Dashboard — YAZAKI",
+      "title": "Warehouse Space Calculation Dashboard",
       "category": "Power BI",
       "tags": [
         "Power BI",
@@ -181,17 +177,15 @@
     },
     {
       "id": "proj2",
-      "title": "Vendor Validation Automation — REST API Integration",
+      "title": "Enterprise Cost Improvement Dashboard.png",
       "category": "Python",
       "tags": [
-        "Python",
-        "REST API",
-        "VIES",
-        "D&B",
-        "IBAN"
+        "PBI"
       ],
-      "description": "Python-powered automation connecting VIES (EU VAT validation), Dun & Bradstreet, and IBAN.com APIs to automatically validate new vendors before SAP activation. Eliminated manual checks and reduced processing time by over 70%.",
-      "images": [],
+      "description": "Created a comprehensive Power BI dashboard to track enterprise costs, enabling management to identify trends and make data-driven decisions for cost reduction.",
+      "images": [
+        "Enterprise Cost Improvement Dashboard.png"
+      ],
       "embed": "",
       "link": "",
       "year": "2025",
@@ -199,7 +193,7 @@
     },
     {
       "id": "proj3",
-      "title": "SAP MDG Data Quality Tool",
+      "title": "Vendor Master Data Accuracy Project",
       "category": "Analytics",
       "tags": [
         "Python",
@@ -208,8 +202,10 @@
         "SQL",
         "Data Quality"
       ],
-      "description": "Cross-system discrepancy detection engine querying SAP tables via Azure. Surfaced mismatches in master data records at scale, enabling proactive governance before issues propagated downstream.",
-      "images": [],
+      "description": "Led a project focused on ensuring the accuracy and integrity of vendor master data, streamlining vendor management and improving data quality across the organization.",
+      "images": [
+        "Vendor Master Data Accuracy.png"
+      ],
       "embed": "",
       "link": "",
       "year": "2024",
@@ -217,15 +213,17 @@
     },
     {
       "id": "proj4",
-      "title": "Power Apps Approval Workflow",
+      "title": "Premium Freight Approval App",
       "category": "Power Platform",
       "tags": [
         "Power Apps",
         "Power Automate",
         "SharePoint"
       ],
-      "description": "Canvas app MVP built for top management to digitize approval workflows and replace paper-based forms. Integrated with Power Automate for automated notifications and Power BI for audit tracking.",
-      "images": [],
+      "description": "Designed and built a custom Power Apps application to automate and manage the approval workflow for premium freight requests, reducing lead times and ensuring proper authorization.",
+      "images": [
+        "Premium Freight Approval App.png"
+      ],
       "embed": "",
       "link": "",
       "year": "2024",
@@ -233,15 +231,17 @@
     },
     {
       "id": "proj5",
-      "title": "MDG Master Data Health Reports",
-      "category": "Power BI",
+      "title": "Stock Adjustment Approval App",
+      "category": "Power Platform",
       "tags": [
-        "Power BI",
-        "SAP MDG",
-        "Data Governance"
+        "Power Apps",
+        "Power Automate",
+        "SharePoint"
       ],
-      "description": "Power BI suite monitoring vendor and customer master data KPIs — completeness, duplication rate, IBAN validity, tax number accuracy — surfaced to data governance stakeholders in real time.",
-      "images": [],
+      "description": "Developed a Power Apps solution for managing stock adjustments, providing a clear approval process to maintain accurate inventory records and reduce discrepancies.",
+      "images": [
+        "Stock Adjustment Approval App.png"
+      ],
       "embed": "",
       "link": "",
       "year": "2024",
@@ -249,20 +249,45 @@
     },
     {
       "id": "proj6",
-      "title": "DCIX Factory Startup Integration — APTIV",
-      "category": "ERP",
+      "title": "Daily Inventory Dashboard",
+      "category": "PBI",
       "tags": [
         "SAP MM/SD",
         "DCIX",
         "EDI",
         "IDoc"
       ],
-      "description": "Led DCIX system integration and master data setup from zero for a new APTIV factory. Configured EDI/IDoc processes and delivered training to 30+ end users across logistics and procurement teams.",
-      "images": [],
+      "description": "Implemented a daily inventory dashboard using Power BI, providing real-time visibility into stock levels, movement, and critical inventory metrics for operational teams.",
+      "images": [
+        "Daily Inventory Dashboard.png"
+      ],
       "embed": "",
       "link": "",
       "year": "2023",
       "featured": false
+    },
+    {
+      "id": "proj7",
+      "title": "Daily Inventory Dashboard",
+      "category": "PBI",
+      "tags": [
+        "SAP MM/SD",
+        "DCIX",
+        "EDI",
+        "IDoc"
+      ],
+      "description": "Implemented a daily inventory dashboard using Power BI, providing real-time visibility into stock levels, movement, and critical inventory metrics for operational teams.",
+      "images": [
+        "Daily Inventory Dashboard.png"
+      ],
+      "embed": "",
+      "link": "",
+      "year": "2024",
+      "featured": false
     }
-  ]
+  ],
+  "meta": {
+    "last_updated": "2026-05-03",
+    "version": "1.0"
+  }
 }
